@@ -200,6 +200,11 @@ Config.AllowedItems = {
         wait = 500,
         reward = 15,
     },
+    ["goldbar"] = {
+        name = "goldbar",
+        wait = 500,
+        reward = 150,
+    },
     ["lockpick"] = {
         name = "lockpick",
         wait = 10000,
