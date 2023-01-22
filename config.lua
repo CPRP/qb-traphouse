@@ -200,8 +200,8 @@ Config.AllowedItems = {
         wait = 500,
         reward = 15,
     },
-    ["goldbar"] = {
-        name = "goldbar",
+    ["goldingot"] = {
+        name = "goldingot",
         wait = 500,
         reward = 150,
     },
@@ -255,26 +255,26 @@ Config.AllowedItems = {
         wait = 500,
         reward = 450,
     },
-    ["emerald"] = {
-        name = "emerald",
-        wait = 500,
-        reward = 500,
-    },
-    ["ruby"] = {
-        name = "ruby",
-        wait = 500,
-        reward = 500,
-    },
-    ["diamond"] = {
-        name = "diamond",
-        wait = 500,
-        reward = 500,
-    },
-    ["sapphire"] = {
-        name = "sapphire",
-        wait = 500,
-        reward = 500,
-    },
+    -- ["emerald"] = {
+    --     name = "emerald",
+    --     wait = 500,
+    --     reward = 500,
+    -- },
+    -- ["ruby"] = {
+    --     name = "ruby",
+    --     wait = 500,
+    --     reward = 500,
+    -- },
+    -- ["diamond"] = {
+    --     name = "diamond",
+    --     wait = 500,
+    --     reward = 500,
+    -- },
+    -- ["sapphire"] = {
+    --     name = "sapphire",
+    --     wait = 500,
+    --     reward = 500,
+    -- },
     ["10kgoldchain"] = {
         name = "10kgoldchain",
         wait = 500,
