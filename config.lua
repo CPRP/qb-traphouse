@@ -220,6 +220,11 @@ Config.AllowedItems = {
         wait = 500,
         reward = 350,
     },
+    ["cryptostick"] = {
+        name = "cryptostick",
+        wait = 500,
+        reward = 350,
+    },
     ["radioscanner"] = {
         name = "radioscanner",
         wait = 500,
